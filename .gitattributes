@@ -1,7 +1,7 @@
 
-*.yml linguist-language=java
-*.html linguist-language=java
-*.js linguist-language=java 
-*.xml linguist-language=java
-*.css linguist-language=java
+*.yml linguist-language=C++
+*.html linguist-language=C++
+*.js linguist-language=C++ 
+*.xml linguist-language=C++
+*.css linguist-language=C++
 
